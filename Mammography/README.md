@@ -1,4 +1,1 @@
-This folder is for denseNet201 pretrained model:
-    1- normal model.
-    2- using the kfold.
-    3- a model for calculating the test time.
+This folder is for mammogram pretrained models.
